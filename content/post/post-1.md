@@ -6,4 +6,4 @@ comments: true
 ---
 This is post 1 Enjoy
 
-{{ disqus "portfolio-wvesaptkih" }}.
+{{ disqus "portfolio-wvesaptkih" }}
