@@ -17,7 +17,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
+  title: My Portfolio
   description: "Passionate Full Stack Web Developer | Transforming Ideas into Digital Reality"
   keywords: [Blog, Portfolio, Software Engineer, Full Stack Web Developer]
   author: Joseph Miseda
