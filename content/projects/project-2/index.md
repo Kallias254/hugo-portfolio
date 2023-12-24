@@ -1,7 +1,7 @@
 ---
 title: "SnapSavor"
 date: 2023-12-22T14:38:50+03:00
-draft: true
+draft: false
 description: "Foodie's Delight App"
 tags: ["JavaScript", "Web Development"]
 ---

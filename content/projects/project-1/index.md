@@ -1,7 +1,7 @@
 ---
 title: "PawPal"
 date: 2023-12-22T14:32:16+03:00
-draft: true
+draft: false
 description: "Canine Companion Matcher"
 tags: ["JavaScript", "Web Development"]
 ---

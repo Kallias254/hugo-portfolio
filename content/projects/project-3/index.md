@@ -1,7 +1,7 @@
 ---
 title: "EcoTrails"
 date: 2023-12-22T14:39:04+03:00
-draft: true
+draft: false
 description: "Nature Exploration App"
 tags: ["JavaScript", "Web Development"]
 ---
