@@ -1,4 +1,4 @@
-baseURL: "/"
+baseURL: "https://tangerine-snickerdoodle-fa1336.netlify.app/"
 languageCode: en-us
 title: My Portfolio
 paginate: 5
