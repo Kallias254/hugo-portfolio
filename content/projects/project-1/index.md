@@ -1,5 +1,5 @@
 ---
-title: "PawPal"
+title: "PawPals"
 date: 2023-12-22T14:32:16+03:00
 draft: false
 description: "Canine Companion Matcher"
@@ -7,7 +7,7 @@ tags: ["JavaScript", "Web Development", "Static Website with Dynamic Content"]
 ---
 ![Project Screenshot](assets/images/screenshot.jpeg)
 
-# PawPal Website 
+# PawPals Website 
 
 Description:
 Welcome to PawPals – an immersive platform celebrating the diversity of our canine companions. As the sole developer for this project, I designed and implemented a dynamic website that not only showcases captivating images of various dog breeds fetched from the Dog API but also provides an enriching experience for dog enthusiasts.
@@ -21,7 +21,7 @@ User-Friendly Interface: Crafted an intuitive interface to welcome visitors and 
 Engaging Content: Created engaging and informative content to encourage users to discover new breeds and potentially find their perfect furry companion.
 
 Impact:
-The PawPal website has successfully attracted dog lovers, providing them with a pawsitively amazing platform to explore and appreciate the world of dogs.
+The PawPals website has successfully attracted dog lovers, providing them with a pawsitively amazing platform to explore and appreciate the world of dogs.
 
 # Links
 
