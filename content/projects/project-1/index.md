@@ -9,7 +9,7 @@ tags: ["JavaScript", "Web Development", "Static Website with Dynamic Content"]
 #Description:
 Welcome to PawPals – an immersive platform celebrating the diversity of our canine companions. As the sole developer for this project, I designed and implemented a dynamic website that not only showcases captivating images of various dog breeds fetched from the Dog API but also provides an enriching experience for dog enthusiasts.
 
-#Key Features:
+##Key Features:
 
 Dog API Integration: Leveraged the Dog API to dynamically fetch and display images of different dog breeds, ensuring a constantly refreshing user experience.
 
