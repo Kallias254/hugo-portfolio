@@ -6,10 +6,10 @@ description: "Canine Companion Matcher"
 tags: ["JavaScript", "Web Development", "Static Website with Dynamic Content"]
 ---
 
-#Description:
+## Description:
 Welcome to PawPals – an immersive platform celebrating the diversity of our canine companions. As the sole developer for this project, I designed and implemented a dynamic website that not only showcases captivating images of various dog breeds fetched from the Dog API but also provides an enriching experience for dog enthusiasts.
 
-##Key Features:
+## Key Features:
 
 Dog API Integration: Leveraged the Dog API to dynamically fetch and display images of different dog breeds, ensuring a constantly refreshing user experience.
 
@@ -20,7 +20,7 @@ Engaging Content: Created engaging and informative content to encourage users to
 Impact:
 The PawPals website has successfully attracted dog lovers, providing them with a pawsitively amazing platform to explore and appreciate the world of dogs.
 
-# Links
+### Links
 
 - [GitHub Repository](https://github.com/Kallias254/pawsome-pals/tree/master)
 - [Live Demo](https://kallias254.github.io/pawsome-pals/#)
