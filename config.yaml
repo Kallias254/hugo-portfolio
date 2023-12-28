@@ -88,7 +88,7 @@ params:
     - name: github
       url: "https://github.com/Kallias254"
     - name: email
-      url: "misedajoseph@gmail.com"
+      url: "mailto:misedajoseph@gmail.com"
 
   analytics:
     google:
