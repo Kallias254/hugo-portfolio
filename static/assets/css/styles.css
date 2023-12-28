@@ -1,13 +1,13 @@
-:root {
-    --theme: #fbf1c7; /* background */
-    --entry: #ebdbb2; /* secondary background */
-    --primary: #3c3836; /* primary text */
-    --secondary: #504945; /* secondary text */
-    --tertiary: #665c54; /* tertiary text */
-    --content: #3c3836; /* content text */
-    --hljs-bg: #fbf1c7; /* code background */
-    --code-bg: #fbf1c7; /* code block background */
-    --border: #d5c4a1; /* border color */
-}
-
-
+/* :root { */
+/*     --theme: #fbf1c7; /* background */ */
+/*     --entry: #ebdbb2; /* secondary background */ */
+/*     --primary: #3c3836; /* primary text */ */
+/*     --secondary: #504945; /* secondary text */ */
+/*     --tertiary: #665c54; /* tertiary text */ */
+/*     --content: #3c3836; /* content text */ */
+/*     --hljs-bg: #fbf1c7; /* code background */ */
+/*     --code-bg: #fbf1c7; /* code block background */ */
+/*     --border: #d5c4a1; /* border color */ */
+/* } */
+/**/
+/**/
