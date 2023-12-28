@@ -5,9 +5,7 @@ draft: false
 description: "Canine Companion Matcher"
 tags: ["JavaScript", "Web Development", "Static Website with Dynamic Content"]
 ---
-![Project Screenshot](/static/assets/images/screenshot.jpeg)
-
-
+![Project Screenshotl](/static/assets/images/screenshot.jpeg)
 
 
 {{< figure src="/static/assets/images/screenshot.jpeg" alt="Project Screenshot" >}}
