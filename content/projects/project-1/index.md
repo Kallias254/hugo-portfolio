@@ -4,19 +4,7 @@ date: 2023-12-22T14:32:16+03:00
 draft: false
 description: "Canine Companion Matcher"
 tags: ["JavaScript", "Web Development", "Static Website with Dynamic Content"]
-cover: "/static/assets/images/screenshot.jpeg"
 ---
-![Project Screenshotl](/static/assets/images/screenshot.jpeg)
-
-
-{{< figure src="/static/assets/images/screenshot.jpeg" alt="Project Screenshot" >}}
-
-
-# Example Usage in Markdown
-![My Post Cover Image](/static/assets/images/screenshot.jpeg)
-
-
-
 # PawPals Website 
 
 Description:
