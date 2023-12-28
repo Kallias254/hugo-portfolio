@@ -87,6 +87,8 @@ params:
       url: "https://twitter.com/Miseda254"
     - name: github
       url: "https://github.com/Kallias254"
+    - name: email
+      url: "misedajoseph@gmail.com"
 
   analytics:
     google:
