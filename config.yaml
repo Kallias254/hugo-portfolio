@@ -88,8 +88,8 @@ params:
     - name: github
       url: "https://github.com/Kallias254"
     - name: email
-      url: "mailto:misedajoseph@gmail.com"
-
+      url: "https://mail.google.com/mail/?view=cm&fs=1&to=misedajoseph@gmail.com"
+   
   analytics:
     google:
       SiteVerificationTag: "XYZabc"
