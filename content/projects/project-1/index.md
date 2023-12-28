@@ -7,9 +7,21 @@ tags: ["JavaScript", "Web Development"]
 ---
 ![Project Screenshot](images/screenshot.jpg)
 
-# Project Details
+# Project: Pawsome Pals Website 
 
-Discover your perfect furry friend with PawPal! This web app uses the Dog API to provide a personalized match based on your lifestyle, preferences, and living conditions. Whether you're a city dweller or a suburbanite, PawPal ensures that you find a loyal companion that suits your needs. Explore different breeds, learn about their characteristics, and make an informed decision before bringing home your new four-legged friend.
+Description:
+Welcome to Pawsome Pals – an immersive platform celebrating the diversity of our canine companions. As the sole developer for this project, I designed and implemented a dynamic website that not only showcases captivating images of various dog breeds fetched from the Dog API but also provides an enriching experience for dog enthusiasts.
+
+Key Features:
+
+Dog API Integration: Leveraged the Dog API to dynamically fetch and display images of different dog breeds, ensuring a constantly refreshing user experience.
+
+User-Friendly Interface: Crafted an intuitive interface to welcome visitors and guide them through the exploration of diverse dog breeds.
+
+Engaging Content: Created engaging and informative content to encourage users to discover new breeds and potentially find their perfect furry companion.
+
+Impact:
+The Pawsome Pals website has successfully attracted dog lovers, providing them with a pawsitively amazing platform to explore and appreciate the world of dogs.
 
 # Links
 
