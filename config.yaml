@@ -42,7 +42,7 @@ params:
   hideSummary: false
   showtoc: false
   tocopen: false
-  customCSS: ["css/styles.css"]
+  # customCSS: ["css/styles.css"]
 
   assets:
     # disableHLJS: true # to disable highlight.js
