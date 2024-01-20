@@ -17,8 +17,8 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: My Portfolio
-  description: "Passionate Full Stack Web Developer | Transforming Ideas into Digital Reality"
+  title: Passionate about JS
+  description: "Full Stack Web Developer | Transforming Ideas into Digital Reality"
   keywords: [Blog, Portfolio, Software Engineer, Full Stack Web Developer]
   author: Joseph Miseda
   # author: ["Me", "You"] # multiple authors
@@ -31,13 +31,13 @@ params:
   ShowShareButtons: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
-  ShowCodeCopyButtons: false
+  ShowCodeCopyButtons: true
   ShowWordCount: true
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
   disableSpecial1stPost: false
   disableScrollToTop: false
-  comments: false
+  comments: true
   hidemeta: false
   hideSummary: false
   showtoc: false
@@ -77,11 +77,10 @@ params:
   homeInfoParams:
     Title: "Hi there! 👋"
     Content: |
-      I'm Kallias254, a full-stack web developer , slayer of bugs and glitches. I'm on a quest to make your web experience smoother.
 
-      When I'm not wrangling pixels or debugging demons, you'll find me riding the waves in Kilifi ☀️, slaying digital dragons in video games , or getting lost in a good sci-fi thriller.
+      Hello, I'm Joseph Miseda, a dynamic full-stack developer with a knack for adapting to various programming languages and technologies. With a foundation in JavaScript, React, Node.js, Express, and MongoDB, complemented by my economics background, I excel in creating efficient, user-centric web solutions. My experience extends to WordPress development, reflecting my commitment to being language-agnostic in the ever-evolving tech landscape. When not coding, I enjoy surfing in Kilifi and delving into sci-fi thrillers.
 
-      So, whether you need a website that wows ✨, or just someone to geek out about the latest tech trends , let's connect! I'm always up for a challenge, a collaboration, or simply a good conversation about the magic of code ☕️.
+      Ready for a developer who thrives on versatility and innovation? Let’s connect and bring your ideas to life!
 
   socialIcons:
     - name: twitter
