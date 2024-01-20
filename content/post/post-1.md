@@ -6,4 +6,5 @@ comments: true
 ---
 This is post 1 Enjoy
 
-{{< disqus "portfolio-wvesaptkih" >}}
+<p>Disqus shortcode is working</p>
+<!-- {{< disqus "portfolio-wvesaptkih" >}} -->

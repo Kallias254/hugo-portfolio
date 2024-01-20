@@ -75,12 +75,13 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there! 👋"
+    Title: "Hi there 👋"
+
     Content: |
+      
+      I’m Joseph Miseda, a dynamic full-stack developer passionate about adapting to various programming languages and technologies. Specializing in JavaScript, React, Node.js, Express, and MongoDB, I'm dedicated to crafting efficient, user-centric web solutions. My expertise extends to an array of CMS platforms, including versatile WordPress, Hugo, and 11ty, showcasing my commitment to language-agnostic practices in the ever-evolving tech landscape.
 
-      Hello, I'm Joseph Miseda, a dynamic full-stack developer with a knack for adapting to various programming languages and technologies. With a foundation in JavaScript, React, Node.js, Express, and MongoDB, complemented by my economics background, I excel in creating efficient, user-centric web solutions. My experience extends to WordPress development, reflecting my commitment to being language-agnostic in the ever-evolving tech landscape. When not coding, I enjoy surfing in Kilifi and delving into sci-fi thrillers.
-
-      Ready for a developer who thrives on versatility and innovation? Let’s connect and bring your ideas to life!
+      When I'm not crafting code, you'll find me grinding the weekend league on FUT, or immersed in discussions that challenge perspectives. These pursuits ignite my creativity, bringing a blend of innovation and a human touch to my digital creations.
 
   socialIcons:
     - name: twitter
