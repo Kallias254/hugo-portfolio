@@ -5,7 +5,7 @@ draft: false
 description: "Academic and Career Portfolio"
 tags: ["Hugo", "Web Development", "Static Site Generators(SSGs)"]
 ---
-![Project Screenshot](images/screenshot.jpg)
+<!-- ![Project Screenshot](images/screenshot.jpg) -->
 ## Description
 "Scholar Summit" is a personal academic and career-focused website I created to showcase my professional journey and achievements. The site targets academic professionals and others in the educational sector, emphasizing a blend of functional design and strategic content placement.
 
