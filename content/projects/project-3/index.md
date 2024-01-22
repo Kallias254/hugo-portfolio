@@ -1,17 +1,22 @@
 ---
-title: "EcoTrails"
+title: "Academic and Career Portfolio"
 date: 2023-12-22T14:39:04+03:00
 draft: false
-description: "Nature Exploration App"
-tags: ["JavaScript", "Web Development"]
+description: "Academic and Career Portfolio"
+tags: ["Hugo", "Web Development", "Static Site Generators(SSGs)"]
 ---
 ![Project Screenshot](images/screenshot.jpg)
+## Description
+"Scholar Summit" is a personal academic and career-focused website I created to showcase my professional journey and achievements. The site targets academic professionals and others in the educational sector, emphasizing a blend of functional design and strategic content placement.
 
-# Project Details
+## Key Features
 
-Embark on a journey with EcoTrails, your guide to immersive nature exploration! This mobile application is designed for outdoor enthusiasts who seek eco-friendly trails and green adventures. Discover hidden gems, learn about flora and fauna, and contribute to environmental conservation efforts. With EcoTrails, you can plan hiking trips, share eco-friendly travel tips, and connect with like-minded nature lovers. Unleash your inner explorer and tread lightly with EcoTrails!
+Educational Sector Focus: Tailored the website to cater to academic professionals, providing a platform to highlight their career achievements and scholarly works.
+
+Intuitive User Experience: Designed with user engagement in mind, making it easy for visitors to navigate through academic portfolios and career accomplishments.
+
+Content Strategy: Developed a content strategy that effectively communicates my professional story and showcases my web development projects.
 
 # Links
 
-- [GitHub Repository](https://github.com/yourusername/my-new-project)
-- [Live Demo](https://www.example.com/my-new-project)
+- [Live Demo](https://www.scholarsummit.org/)
