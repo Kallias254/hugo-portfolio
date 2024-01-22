@@ -1,17 +1,22 @@
 ---
-title: "SnapSavor"
+title: "WriteWithCaren"
 date: 2023-12-22T14:38:50+03:00
 draft: false
-description: "Foodie's Delight App"
-tags: ["JavaScript", "Web Development"]
+description: "Copywriting Portfolio Showcase"
+tags: ["Web Development", "WordPress", "mySQL", "SEO"`` ]
 ---
-![Project Screenshot](images/screenshot.jpg)
+<!-- ![Project Screenshot](images/screenshot.jpg) -->
+## Description
+Welcome to "Write with Caren" – a bespoke platform designed to highlight the art of copywriting. This project involved creating a website from the ground up, focusing on showcasing the client's expertise in copywriting. Tailored content presentation and a user-friendly design were key in enhancing the site’s professional appeal.
 
-# Project Details
+## Key Features
 
-SnapSavor revolutionizes the way you experience food! This innovative mobile app lets you capture and share your culinary adventures with a community of fellow food enthusiasts. Use SnapSavor to snap mouthwatering pictures of your meals, discover trending dishes, and connect with local foodies. From savory street food to gourmet delights, SnapSavor transforms your dining experiences into visual stories that inspire and delight.
+Custom Content Layout: Developed a layout that elegantly displays the client’s portfolio and services, offering visitors an engaging insight into her copywriting prowess.
 
-# Links
+Responsive Design: Implemented a design that adapts to various devices, ensuring a seamless experience for all users.
 
-- [GitHub Repository](https://github.com/yourusername/my-new-project)
-- [Live Demo](https://www.example.com/my-new-project)
+SEO Optimization: Employed SEO best practices to improve the site’s visibility and reach to potential clients.
+
+## Links
+
+- [Live Demo](https://www.writewithcaren.com/)
