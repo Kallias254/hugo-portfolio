@@ -3,7 +3,7 @@ title: "WriteWithCaren"
 date: 2023-12-22T14:38:50+03:00
 draft: false
 description: "Copywriting Portfolio Showcase"
-tags: ["Web Development", "WordPress", "mySQL", "SEO"`` ]
+tags: ["Web Development", "WordPress", "mySQL", "SEO" ]
 ---
 <!-- ![Project Screenshot](images/screenshot.jpg) -->
 ## Description
