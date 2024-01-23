@@ -11,7 +11,7 @@ tags: ["Hugo", "Web Development", "Static Site Generators(SSGs)"]
 
 ## Key Features
 
-Educational Sector Focus: Tailored the website to cater to academic professionals, providing a platform to highlight their career achievements and scholarly works.
+Educational Sector Focus: Tailored the website for academic professionals, providing a platform to highlight their career achievements and scholarly works.
 
 Intuitive User Experience: Designed with user engagement in mind, making it easy for visitors to navigate through academic portfolios and career accomplishments.
 
