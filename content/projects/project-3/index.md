@@ -7,7 +7,7 @@ tags: ["Hugo", "Web Development", "Static Site Generators(SSGs)"]
 ---
 <!-- ![Project Screenshot](images/screenshot.jpg) -->
 ## Description
-"Scholar Summit" is a personal academic and career-focused website I created to showcase my professional journey and achievements. The site targets academic professionals and others in the educational sector, emphasizing a blend of functional design and strategic content placement.
+"Scholar Summit" is a personal academic and career-focused website I created to cater for clients who want to showcase their professional journey and achievements. The site targets academic professionals and others in the educational sector, emphasizing a blend of functional design and strategic content placement.
 
 ## Key Features
 
@@ -15,7 +15,7 @@ Educational Sector Focus: Tailored the website to cater to academic professional
 
 Intuitive User Experience: Designed with user engagement in mind, making it easy for visitors to navigate through academic portfolios and career accomplishments.
 
-Content Strategy: Developed a content strategy that effectively communicates my professional story and showcases my web development projects.
+Content Strategy: Developed a content strategy that effectively communicates a clients professional story.
 
 # Links
 
