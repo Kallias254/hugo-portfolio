@@ -78,8 +78,8 @@ params:
     Title: "Hi there 👋"
 
     Content: |
-      
-      I’m Miseda, a dynamic full-stack developer passionate about AI. Specializing in JavaScript, React, Node.js, Express, and MongoDB, I'm dedicated to crafting efficient tech solutions for businesses. 
+
+      I’m Miseda, a dynamic full-stack developer passionate about AI. Specializing in JavaScript, React, Node.js, Express, and MongoDB, I'm dedicated to crafting efficient tech solutions for businesses.
 
       Away from the keyboard, you'll find me grinding the weekend league on FIFA ULTIMATE TEAM (FUT). These pursuits ignite my creativity, bringing a blend of innovation and human touch to my digital creations.
 
@@ -90,7 +90,7 @@ params:
       url: "https://github.com/Kallias254"
     - name: email
       url: "https://mail.google.com/mail/?view=cm&fs=1&to=misedajoseph@gmail.com"
-   
+
   analytics:
     google:
       SiteVerificationTag: "XYZabc"
@@ -140,13 +140,13 @@ menu:
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
 # markup:
-  # highlight:
-    # noClasses: false
-    # anchorLineNos: true
-    # codeFences: true
-    # guessSyntax: true
-    # lineNos: true
-    # style: monokai
+# highlight:
+# noClasses: false
+# anchorLineNos: true
+# codeFences: true
+# guessSyntax: true
+# lineNos: true
+# style: monokai
 outputs:
   home:
     - HTML
