@@ -1,4 +1,9 @@
-# Comprehensive Guide to Setting Up a New VPS
+---
+title: "Comprehensive Guide to Setting Up a Production VPS"
+date: 2023-12-22T14:32:16+03:00
+draft: false
+description: "Setting Up a Production VPS"
+---
 
 Setting up a new Virtual Private Server (VPS) can be a daunting task, especially for beginners. This guide will walk you through the process of configuring a secure and functional VPS, including firewall setup, swap space creation, and Docker installation. We'll be using a DigitalOcean droplet running Ubuntu 24.04 (LTS) as an example, but most steps should be applicable to other VPS providers and recent Ubuntu versions.
 
@@ -292,5 +297,3 @@ Based on the results of these checks, you can decide how to proceed:
 - If you're not using SSH keys yet, you might want to set them up for enhanced security.
 
 Remember, it's crucial to ensure you don't lock yourself out of your server. Always keep a backup method of access (like the DigitalOcean console) available when making changes to SSH configurations.
-
-

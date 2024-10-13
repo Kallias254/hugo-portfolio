@@ -1,4 +1,9 @@
-# Keeping SSH Connections Persistent A Guide to Avoiding Timeouts
+---
+title: "Keeping SSH Connections Persistent A Guide to Avoiding Timeouts"
+date: 2023-12-22T14:32:16+03:00
+draft: false
+description: "Avoiding timeouts"
+---
 
 If you're running a VPS like I am, ensuring that your SSH connection stays active without timing out is crucial for smooth remote access. I recently faced a timeout issue with my DigitalOcean VPS running Ubuntu 24.04 and sought to make my SSH connection more persistent. This blog explains the entire process, from configuring your local machine (client) to modifying server settings. I'll also dive into the details of the `grep` command and the significance of the `240 60` settings in SSH configuration.
 
