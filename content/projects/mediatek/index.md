@@ -1,10 +1,11 @@
 ---
 title: "Mediatek Broadband"
-date: 2024-10-13T14:38:50+03:00
+date: 2023-12-22T14:32:16+03:00
 draft: false
 description: "Reliable Internet Solutions in Kenya"
 tags: ["Web Development", "WordPress", "ISP", "SEO", "Broadband"]
 ---
+
 ## Description
 Welcome to **Mediatek Broadband**, Kenya's most reliable internet service provider. This project involved developing a modern, user-friendly website that highlights the company's broadband solutions, features, and services while offering detailed insights into their expanding network across Kenya.
 
