@@ -32,5 +32,8 @@ This modern and visually captivating website offers users an intuitive journey t
 - **24/7 Customer Support**: Available for any inquiries or assistance during planning and travel.
 
 ## Links:
-- [Official Website](https://toptoureviaggitest.co.uk)
+- [Official Website](https://www.toptoureviaggikenya.co.uk/)
 - [GitHub Repository](https://github.com/Kallias254/toptourviaggi)
+## Links:
+- <a href="https://www.toptoureviaggikenya.co.uk/" target="_blank">Official Website</a>
+- <a href="https://github.com/Kallias254/toptourviaggi" target="_blank">GitHub Repository</a>
