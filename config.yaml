@@ -1,6 +1,6 @@
-baseURL: "https://myportfolio435.netlify.app/"
+baseURL: "https://misedafullstack.netlify.app/"
 languageCode: en-us
-title: My Portfolio
+title: Miseda Full-Stack Solutions
 paginate: 5
 theme: PaperMod
 
