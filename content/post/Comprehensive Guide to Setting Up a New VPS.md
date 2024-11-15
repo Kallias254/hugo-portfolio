@@ -104,6 +104,20 @@ docker-compose --version
 
 You should see the version of Docker Compose you installed.
 
+### Install Docker using the Official Apt Repository
+
+Before installing Docker Engine for the first time on a new host machine, you need to set up Docker's apt repository. Afterward, you can install and update Docker from this repository.
+
+#### Set up Docker’s apt repository
+
+1. **Add Docker’s official GPG key**:
+   ```bash
+   sudo apt-get update
+   sudo apt-get install ca-certificates curl
+   sudo install -m 0755 -d /etc/apt/keyrings
+   sudo curl -fsSL https://download.docker.com/linux/ubuntu/gpg -o /etc/apt/keyrings/docker.asc
+   sudo chmod a+r /etc/apt/keyrings/docker.asc
+
 ### 5. Install Docker Engine
 
 Install the latest version of Docker Engine, containerd, and Docker Compose:
